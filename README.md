@@ -3,7 +3,7 @@
 # 👋 Hi — I'm **Mhand Amzil**
 <span style="font-size:0.9rem">Frontend Developer — React • Next.js • Tailwind</span>
 
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/mhandamzil?style=social)]()
+[![Linkedin Follow](https://img.shields.io/linkedin/in/mhandamzil?style=social)]()
 [![GitHub followers](https://img.shields.io/github/followers/mhandamzil?label=Follow&style=social)]()
 
 ---
