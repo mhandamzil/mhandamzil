@@ -4,7 +4,7 @@
 <span style="font-size:0.9rem">Frontend Developer — React • Next.js • Tailwind</span>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)]()
-[![GitHub followers](https://img.shields.io/github/followers/your_github?label=Follow&style=social)]()
+[![GitHub followers](https://img.shields.io/github/followers/mhandamzil?label=Follow&style=social)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github&layout=compact&theme=tokyonight)]()
 
 ---
