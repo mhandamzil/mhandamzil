@@ -5,7 +5,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)]()
 [![GitHub followers](https://img.shields.io/github/followers/mhandamzil?label=Follow&style=social)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhandamzil&layout=compact&theme=tokyonight)]()
 
 ---
 
@@ -40,14 +39,13 @@ I build fast, accessible and production-ready frontends with **React**, **Next.j
 
 ## GitHub Stats
 ![Mhand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhandamzil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhandamzil&layout=compact&theme=tokyonight)
 
 ---
 
 ## Contact
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/your_profile  
-- Portfolio: https://your-portfolio.com
+- Email: mhandamzil.dev@gmail.com  
+- LinkedIn: https://linkedin.com/in/mhandamzil  
+- Portfolio: https://mhandamzil.site
 
 ---
 
