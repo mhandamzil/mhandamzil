@@ -26,14 +26,11 @@ I build fast, accessible and production-ready frontends with **React**, **Next.j
 ---
 
 ## Highlights (Pinned Projects)
-> *Pin 4 projects that best show your frontend skill: portfolio site, best UI project, a template/starter repo, and a repo showing animations or performance optimizations.*
 
 | Project | Short |
 |---|---|
-| **Moviezil** | React + OMDb — searchable, responsive UI (API consumer) |
+| **Travelo** | Next.js + Tailwind CSS + Framer Motion, responsive UI (API consumer) |
 | **Portfolio** | This site — Next.js, Tailwind, animations, Lighthouse scores |
-| **UI Kit / Starter** | Reusable components + Storybook (for quick client demos) |
-| **Animations Playground** | GSAP + Framer Motion experiments (small demos & GIFs) |
 
 ---
 
@@ -49,4 +46,3 @@ I build fast, accessible and production-ready frontends with **React**, **Next.j
 
 ---
 
-> *Want a printable CV or to collaborate? DM me or open an issue in any of my repos.*
